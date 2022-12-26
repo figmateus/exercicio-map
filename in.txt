@@ -1,0 +1,5 @@
+Bolsonaro, 1500.00
+Bolsonaro, 2000.00
+Lula, 2000.00
+Lula, 3000.00
+ciro, 700.00
